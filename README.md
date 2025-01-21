@@ -13,10 +13,10 @@
 
 ### 💼 **Projetos em Destaque:**
 
-1. **[Prontuário](https://github.com/seu-usuario/prontuario):**  
+1. **[Prontuário](https://github.com/aliceqo/Prontuario):**  
    Sistema para gestão de informações médicas, otimizando o acompanhamento de pacientes e integrando dados de forma segura e eficiente.  
 
-2. **[BatyHealth](https://github.com/seu-usuario/batyhealth):**  
+2. **[BatyHealth](https://github.com/aliceqo/ByteHealth):**  
    Projeto de TCC focado em melhorar a eficiência no atendimento hospitalar público, utilizando tecnologias como totems de autoatendimento, pré-triagem eletrônica e chatbots para reduzir filas e tempos de espera.
    Inclui funcionalidades como cadastro de pacientes, priorização por sintomas e suporte interativo com IA.  
  
