@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! Eu sou a Alice Queiróz 👋
 
-<!--
-**aliceqo/aliceqo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedora Back-End** com conhecimento em várias áreas e apaixonada por resolver problemas com tecnologia.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **Habilidades principais:**
+- **Linguagens:** Java (POO), Python, PHP, JavaScript, HTML, CSS  
+- **Banco de Dados:** MySQL  
+
+---
+
+### 💼 **Projetos em Destaque:**
+
+1. **[Prontuário](https://github.com/seu-usuario/prontuario):**  
+   Sistema para gestão de informações médicas, otimizando o acompanhamento de pacientes e integrando dados de forma segura e eficiente.  
+
+2. **[BatyHealth](https://github.com/seu-usuario/batyhealth):**  
+   Plataforma para monitoramento de saúde, com foco em análise de dados e relatórios personalizados.  
+
+---
+
+📫 **Me encontre aqui:**  
+- [LinkedIn](https://www.linkedin.com/in/alicequeiroz19)  
+- 📱 **Celular:** (11) 95412-5936  
+- ✉️ **Email:** aliceoqueiroz52@gmail.com  
+
