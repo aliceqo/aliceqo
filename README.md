@@ -1,6 +1,7 @@
 # Olá! Eu sou a Alice Queiróz 👋
 
-💻 **Desenvolvedora Back-End** com conhecimento em várias áreas e apaixonada por resolver problemas com tecnologia.
+💻 Desenvolvedora Back-End com conhecimento em várias tecnologias e sempre em busca de aprender mais.
+
 
 ---
 
@@ -16,7 +17,9 @@
    Sistema para gestão de informações médicas, otimizando o acompanhamento de pacientes e integrando dados de forma segura e eficiente.  
 
 2. **[BatyHealth](https://github.com/seu-usuario/batyhealth):**  
-   Plataforma para monitoramento de saúde, com foco em análise de dados e relatórios personalizados.  
+   Projeto de TCC focado em melhorar a eficiência no atendimento hospitalar público, utilizando tecnologias como totems de autoatendimento, pré-triagem eletrônica e chatbots para reduzir filas e tempos de espera.
+   Inclui funcionalidades como cadastro de pacientes, priorização por sintomas e suporte interativo com IA.  
+ 
 
 ---
 
